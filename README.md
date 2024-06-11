@@ -1,0 +1,7 @@
+Ce projet sur GitHub est le résultat d'un travail académique que j'ai entrepris. Dans le cadre de mes études, j'ai reçu une demande de créer une simulation de système solaire utilisant Unity et le langage C#. L'objectif était de démontrer ma compréhension des concepts de programmation, de simulation physique et de visualisation 3D.
+
+Pour commencer, j'ai effectué une recherche approfondie sur les bases de la programmation avec Unity et sur les méthodes de simulation physique. J'ai ensuite planifié la structure de mon projet, en déterminant les différents éléments que je devais inclure, tels que les planètes, les lunes et les interactions gravitationnelles entre eux.
+
+Ensuite, j'ai commencé à écrire le code en C# pour simuler le mouvement des objets célestes en utilisant les lois de la physique newtonienne. Cela impliquait de calculer les forces gravitationnelles entre les différents corps et de mettre à jour leurs positions et vitesses en conséquence.
+
+Une fois que la simulation de base était opérationnelle, j'ai travaillé sur la partie de visualisation en utilisant les fonctionnalités graphiques de Unity pour créer des modèles 3D des planètes, des lunes et du système solaire dans son ensemble. J'ai également ajouté des contrôles utilisateur pour permettre aux utilisateurs d'interagir avec la simulation, comme changer la vitesse de la simulation ou zoomer sur des objets spécifiques.
